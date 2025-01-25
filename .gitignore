@@ -1,0 +1,12 @@
+# Python bytecode'ları
+__pycache__/
+*.pyc
+
+# Sanal ortam
+.venv/
+
+# IDE ayarları
+.idea/
+
+# Diğer gereksiz dosyalar
+*.log
